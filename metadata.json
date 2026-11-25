@@ -1,0 +1,8 @@
+{
+  "name": "TechVault Inventory & POS",
+  "description": "Offline-first inventory management, point of sale, QR/barcode stock entry, and unit-level serial number tracking for computer hardware and retail shops.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
